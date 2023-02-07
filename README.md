@@ -15,7 +15,7 @@
 <a href="https://twitter.com/sahil_atahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahil_atahar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahil-atahar-100366245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/sahil-atahar-100366245/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19264249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19264249" height="30" width="40" /></a>
-<a href="https://fb.com/sahil atahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahil atahar" height="30" width="40" /></a>
+<a href="https://fb.com/sahilatahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahil atahar" height="30" width="40" /></a>
 <a href="https://instagram.com/sahilatahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilatahar" height="30" width="40" /></a>
 </p>
 
