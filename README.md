@@ -2,7 +2,7 @@
 <h3 align="center">I am a BCA Student from Varanasi ,Up ,India</h3>
 
 <a href="https://app.daily.dev/sahilatahar"><img align='right' src="https://api.daily.dev/devcards/a886010b8a4e48769ac148b87116a04b.png?r=zsu" width="400" alt="Sahil Atahar's Dev Card"/></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-atahar&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-atahar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilatahar&label=Profile%20views&color=0e75b6&style=flat" alt="sahilatahar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sahil_atahar" target="blank"><img src="https://img.shields.io/twitter/follow/sahil_atahar?logo=twitter&style=for-the-badge" alt="sahil_atahar" /></a> </p>
 
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahil_atahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahil_atahar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahil-atahar-100366245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/sahil-atahar-100366245/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sahilatahar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/sahilatahar/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19264249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19264249" height="30" width="40" /></a>
 <a href="https://fb.com/sahilatahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahil atahar" height="30" width="40" /></a>
 <a href="https://instagram.com/sahilatahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilatahar" height="30" width="40" /></a>
@@ -41,8 +41,8 @@
 </p>
 
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-atahar&show_icons=true&locale=en&layout=compact" alt="sahil-atahar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilatahar&show_icons=true&locale=en&layout=compact" alt="sahilatahar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-atahar&show_icons=true&locale=en" alt="sahil-atahar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilatahar&show_icons=true&locale=en" alt="sahilatahar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-atahar&" alt="sahil-atahar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilatahar&" alt="sahilatahar" /></p>
