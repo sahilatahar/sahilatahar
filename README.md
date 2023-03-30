@@ -4,7 +4,7 @@
 <a href="https://app.daily.dev/sahilatahar"><img align='right' src="https://api.daily.dev/devcards/a886010b8a4e48769ac148b87116a04b.png?r=zsu" width="400" alt="Sahil Atahar's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilatahar&label=Profile%20views&color=0e75b6&style=flat" alt="sahilatahar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sahil_atahar" target="blank"><img src="https://img.shields.io/twitter/follow/sahil_atahar?logo=twitter&style=for-the-badge" alt="sahil_atahar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sahilatahar" target="blank"><img src="https://img.shields.io/twitter/follow/sahilatahar?logo=twitter&style=for-the-badge" alt="sahilatahar" /></a> </p>
 
 - 🌱 I’m currently learning **React JS, Web Development**
 
