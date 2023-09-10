@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sahil Atahar</h1>
-<h3 align="center">I am a BCA Student from Varanasi ,Up ,India</h3>
+<h3 align="center">I am a BCA Student from India</h3>
 
 <a href="https://app.daily.dev/sahilatahar"><img align='right' src="https://api.daily.dev/devcards/a886010b8a4e48769ac148b87116a04b.png?r=zsu" width="400" alt="Sahil Atahar's Dev Card"/></a>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sahilatahar&label=Profile%20views&color=0e75b6&style=flat" alt="sahilatahar" /> </p>
 
 
-- 🌱 I’m currently learning **React JS, Web Development**
+- 🌱 I’m currently learning **React JS and SASS**
 
-- ⚡ Fun fact **I love to code.**
+- ⚡ Fun fact **I love coding.**
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sahilatahar@gmail.com)
@@ -24,6 +24,7 @@
 #### Web Development:
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=html5&logoColor=white)]()
+[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]()
