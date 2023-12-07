@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=1000&height=100&lines=Hi%2C+I'm+Sahil+Atahar)](https://git.io/typing-svg)
+<br>
+
+<div align="center" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I'm+Sahil+Atahar" alt="Typing SVG" />
+</div>
+
+<br>
 
 - 🌱 Currently expanding skills in **Backend Development**
 - ⚡ Fun fact: **Coding is my passion!**
