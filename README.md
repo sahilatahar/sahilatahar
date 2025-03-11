@@ -32,11 +32,16 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/react%20hook%20form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![React Query](https://img.shields.io/badge/react%20query-f73f51?style=for-the-badge&logo=react-query&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-274d82?style=for-the-badge&logo=zod&logoColor=white)
+![Shad CN UI](https://img.shields.io/badge/schad%20cn-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 #### Backend:
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+![JWT](https://img.shields.io/badge/json%20web%20tokens-f73f51?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+![Socket IO](https://img.shields.io/badge/socket.io-ffffff?style=for-the-badge&logo=socket.io&logoColor=pink)
 
 #### Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
