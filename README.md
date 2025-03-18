@@ -39,21 +39,34 @@
 
 #### Backend:
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![JWT](https://img.shields.io/badge/json%20web%20tokens-f73f51?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-![Socket IO](https://img.shields.io/badge/socket.io-ffffff?style=for-the-badge&logo=socket.io&logoColor=pink)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/json%20web%20tokens-f73f51?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Auhtentication](https://img.shields.io/badge/authentication-000000?style=for-the-badge&logo=authelia&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-a03333?style=for-the-badge&logo=mongoose&logoColor=pink)
+![CASL](https://img.shields.io/badge/CASL-ffffff?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-000000?style=for-the-badge)
+![Socket IO](https://img.shields.io/badge/socket.io-ffffff?style=for-the-badge&logo=socket.io&logoColor=black)
 
 #### Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffffff?style=for-the-badge&logo=Firebase&logoColor=ffcb2b)
 
 #### Tools:
+![Vite](https://img.shields.io/badge/Vite-bd34fe?style=for-the-badge&logo=vite&logoColor=white)
+![ESlint](https://img.shields.io/badge/eslint-4b76dd?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1a2b34?style=for-the-badge&logo=prettier&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
+#### Cloud:
+![AWS S#](https://img.shields.io/badge/AWS%20S3-51962e?style=for-the-badge&logo=amazons3&logoColor=white)
+![Elastic BeanStalk](https://img.shields.io/badge/elastic%20beanstalk-ec7211?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/Amplify-d8272f?style=for-the-badge&logo=awsamplify&logoColor=white)
+
 #### Deployment:
+![Docker](https://img.shields.io/badge/docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -61,7 +74,7 @@
 #### Others:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![Chrome](https://img.shields.io/badge/Google_chrome-e23a2e?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br/>
