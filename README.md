@@ -5,7 +5,7 @@ I love programming, and when I joined my current company as a fresher, I started
 
 I hold a Bachelor of Computer Applications (BCA) degree, where I was first introduced to programming through the C language. Before starting college, I completed a course in C programming, including file handling and some projects aligned with the syllabus.
 
-During college, I explored Flutter for mobile app development but later shifted my focus to web development. Now, I am a full-stack web developer, continuously learning and growing. Currently, I am diving into DevOps to expand my skills further.
+During college, I explored Flutter for mobile app development but later shifted my focus to web development. Now, I am a full-stack web developer, continuously learning and growing.
 
 - 🌱 Currently exploring cloud technologies (AWS) and DevOps.
 - 💼 Building and maintaining HRM & CRM applications.
