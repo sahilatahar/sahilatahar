@@ -7,16 +7,22 @@
 <br>
 
 - 🌱 Currently exploring cloud technologies (AWS) and DevOps.
-- 💻 I'm currently working on HRM and CRM application.
+- 💼 Building and maintaining HRM & CRM applications.
 - ❓ Ask me about the MERN Stack and Next.js.
 - 💡 Fun Fact: I built a real-time code editor called [Code Sync](https://github.com/sahilatahar/Code-Sync) using sockets — it’s my proudest project to date!
 
-## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sahilatahar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilatahar)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19264249/sahilatahar)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sahilatahar)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.com/sahilatahar) 
+<div align="center">
+
+<h3>🌐 Connect with Me:</h3>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:username@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19264249/username)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/username)
+[![Codepen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.com/username)
+
+</div>
+
 
 # ⚡ Tech Stack
 
@@ -33,11 +39,12 @@
 
 
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilatahar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sahilatahar" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilatahar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sahilatahar" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilatahar&show_icons=true&locale=en&theme=tokyonight" alt="sahilatahar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilatahar&theme=tokyonight" alt="sahilatahar" /></p>
+<div style="width: 100%; display: flex; align-items: center; gap: 1rem;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilatahar&theme=tokyonight" alt="sahilatahar" />
+<img src="https://github-readme-stats.vercel.app/api?username=sahilatahar&show_icons=true&locale=en&theme=tokyonight" alt="sahilatahar" />
+</div>
 
 <br>
 
