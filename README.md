@@ -9,7 +9,7 @@
 - 🌱 Currently exploring cloud technologies (AWS) and DevOps.
 - 💼 Building and maintaining HRM & CRM applications.
 - ❓ Ask me about the MERN Stack and Next.js.
-- 💡 Fun Fact: I built a real-time code editor called [Code Sync](https://github.com/sahilatahar/Code-Sync) using sockets — it’s my proudest project to date!
+- 💡 Fun Fact: I can solve a Rubik’s cube in under 2 minutes!
 
 <div align="center">
 
