@@ -38,8 +38,8 @@
 | 📝 Others | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-34495E?style=flat-square&logo=puppeteer&logoColor=white) |
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilatahar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sahilatahar" align="center" height=200/>
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilatahar&theme=tokyonight" alt="sahilatahar" align="center" height=200 /></a>
-&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sahilatahar&show_icons=true&locale=en&theme=tokyonight" alt="sahilatahar" align="center" height=200 /></a>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilatahar&theme=tokyonight" alt="sahilatahar" align="center" width=400/></a>
+&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sahilatahar&show_icons=true&locale=en&theme=tokyonight" alt="sahilatahar" align="center" height=160 /></a>
 
 ### Profile Visit Count
 
