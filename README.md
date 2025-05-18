@@ -37,15 +37,9 @@
 | 🔧 Familiar | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-ccc?style=flat-square&logo=zustand&logoColor=black) |
 | 📝 Others | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-34495E?style=flat-square&logo=puppeteer&logoColor=white) |
 
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilatahar&theme=tokyonight" alt="sahilatahar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sahilatahar&show_icons=true&locale=en&theme=tokyonight" alt="sahilatahar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilatahar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sahilatahar" /></td>
-  </tr>
-</table>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilatahar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sahilatahar" align="center" height=200/>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilatahar&theme=tokyonight" alt="sahilatahar" align="center" height=200 /></a>
+&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sahilatahar&show_icons=true&locale=en&theme=tokyonight" alt="sahilatahar" align="center" height=200 /></a>
 
 ### Profile Visit Count
 
