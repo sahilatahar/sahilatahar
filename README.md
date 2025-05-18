@@ -38,15 +38,14 @@
 | 📝 Others | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-34495E?style=flat-square&logo=puppeteer&logoColor=white) |
 
 
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilatahar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sahilatahar" />
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilatahar&theme=tokyonight" alt="sahilatahar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sahilatahar&show_icons=true&locale=en&theme=tokyonight" alt="sahilatahar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilatahar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sahilatahar" /></td>
+  </tr>
+</table>
 
-<div style="width: 100%; display: flex; align-items: center; gap: 1rem;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilatahar&theme=tokyonight" alt="sahilatahar" />
-<img src="https://github-readme-stats.vercel.app/api?username=sahilatahar&show_icons=true&locale=en&theme=tokyonight" alt="sahilatahar" />
-</div>
-
-<br>
 
 ### Profile Visit Count
 
