@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Sahil Atahar! 😊
-Hi, I'm Sahil Atahar, a full stack developer with seven months of professional experience, currently working as a Full Stack Developer at AR Robotics India PVT LTD. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and am passionate about exploring new technologies, including AI tools and other advanced platforms.
+Hi, I'm Sahil Atahar, a full-stack developer with seven months of professional experience. I am currently working as a full-stack developer at AR Robotics India Pvt. Ltd. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and am passionate about exploring new technologies, including AI tools and other advanced platforms.
 
 I love programming, and when I joined my current company as a fresher, I started building large applications like HRM and CRM systems at a startup. This experience helped me explore many tools, technologies, and cloud platforms, which significantly expanded my skill set. Throughout this journey, I learned numerous methods, tips, and tricks. One of the most challenging parts for me was implementing file upload functionality.
 
