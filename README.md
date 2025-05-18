@@ -1,22 +1,21 @@
 <br>
 
 <div align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I'm+Sahil+Atahar" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I'm+Sahil+Atahar](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=700&height=60&lines=Hi%2C+I'm+Sahil+Atahar;I+am+Full+Stack+Developer;I+love+building+web+applications;Always+learning+new+technologies;I+specialize+in+the+MERN+stack" alt="Typing SVG" />
 </div>
 
 <br>
 
-- 🌱 Currently learning **NextJS and TypeScript**
-- 🔍 Looking for chances to work together on open-source projects.
+- 🌱 Currently exploring cloud technologies (AWS) and DevOps.
+- 💻 I'm currently working on HRM and CRM application.
+- ❓ Ask me about the MERN Stack and Next.js.
+- 💡 Fun Fact: I built a real-time code editor called [Code Sync](https://github.com/sahilatahar/Code-Sync) using sockets — it’s my proudest project to date!
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sahilatahar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilatahar)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19264249/sahilatahar)
-[![Link Tree](https://img.shields.io/badge/linktree-43e660?logo=linktree&logoColor=white)](https://linktr.ee/sahilatahar)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sahilatahar)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahilatahar)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sahilatahar) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.com/sahilatahar) 
 
 # 💻 Tech Stack:
@@ -61,8 +60,9 @@
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 #### Cloud:
-![AWS S#](https://img.shields.io/badge/AWS%20S3-51962e?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-51962e?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Elastic BeanStalk](https://img.shields.io/badge/elastic%20beanstalk-ec7211?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![EC2](https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/Amplify-d8272f?style=for-the-badge&logo=awsamplify&logoColor=white)
 
 #### Deployment:
