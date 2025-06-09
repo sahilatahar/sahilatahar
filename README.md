@@ -12,6 +12,7 @@ During college, I explored Flutter for mobile app development but later shifted 
 - 📫 How to reach me: [sahilatahar@gmail.com](mailto:sahilatahar@gmail.com) or [linkedin](https://www.linkedin.com/in/sahilatahar/).
 - ❓ Ask me about the MERN Stack and Next.js.
 - 💡 Fun Fact: I can solve a Rubik’s cube in under 2 minutes.
+- 🏆 Goal: Be the person I needed when I was younger
 
 # ⚡ Tech Stack
 
