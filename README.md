@@ -41,4 +41,4 @@ npx sahilatahar
 
 ### Profile Visit Count
 
-<img src="https://profile-counter.glitch.me/sahilatahar/count.svg" alt=""/>
+<img src="https://sahilatahar.dev/api/view/sahilatahar/count.svg?theme=dark" alt="Profile Views"/>
