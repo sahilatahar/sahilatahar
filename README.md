@@ -41,4 +41,4 @@ npx sahilatahar
 
 ### Profile Visit Count
 
-![Profile Views](https://sahilatahar.dev/api/view/sahilatahar/count.svg?theme=dark)
+<img src="https://sahilatahar.dev/api/view/sahilatahar/count.svg?theme=dark&fontsize=24" alt="Profile Views" />
