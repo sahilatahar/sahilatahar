@@ -1,17 +1,17 @@
 ### Hi there 👋, I am Sahil Atahar! 😊
-Hi, I'm Sahil Atahar, a full-stack developer with over 10 months of professional experience. I currently work as a full-stack developer at AR Robotics India Pvt. Ltd. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and am passionate about exploring new technologies, including AI tools and other advanced platforms.
+Hi, I'm Sahil Atahar, a full-stack developer with one year of professional experience. I currently work as a full-stack developer at AR Robotics India Pvt. Ltd. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and am passionate about exploring new technologies, including AI tools and other advanced platforms.
 
 I love programming, and when I joined my current company as a fresher, I started building large applications like HRM and CRM systems at a startup. This experience helped me explore many tools, technologies, and cloud platforms, which significantly expanded my skill set. Throughout this journey, I learned numerous methods, tips, and tricks. One of the most challenging parts for me was implementing file upload functionality.
 
 I hold a Bachelor of Computer Applications (BCA) degree, where I was first introduced to programming through the C language. Before starting college, I completed a course in C programming, including file handling and some projects aligned with the syllabus.
 
-During college, I explored Flutter for mobile app development but later shifted my focus to web development. Now, I am a full-stack web developer, continuously learning and growing.
+During college, I explored Flutter for mobile app development, but later shifted my focus to web development. Now, I am a full-stack web developer, continuously learning and growing.
 
-- 🌱 Currently exploring cloud technologies (AWS) and DevOps.
+- 🌱 Currently exploring cloud technologies (AWS), DevOps, and Flutter.
 - 💼 Building and maintaining HRM & CRM applications.
 - 📫 How to reach me: [sahilatahar@gmail.com](mailto:sahilatahar@gmail.com) or [linkedin](https://www.linkedin.com/in/sahilatahar/).
 - ❓ Ask me about the MERN Stack and Next.js.
-- 💡 Fun Fact: I can solve a Rubik’s cube in under 2 minutes.
+- 💡 Fun Fact: I can solve a Rubik’s Cube in under 2 minutes.
 - 🏆 Goal: Be the person I needed when I was younger
 
 # ⚡ Tech Stack
