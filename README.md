@@ -43,3 +43,6 @@ npx sahilatahar
 ### Profile Visit Count
 
 <img src="https://sahilatahar.dev/api/view/sahilatahar/count.svg?theme=dark&fontsize=24" alt="Profile Views" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=sahilatahar&theme=tokyonight" alt="sahilatahar" />
+
