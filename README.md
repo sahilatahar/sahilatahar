@@ -12,7 +12,7 @@ During college, I explored Flutter for mobile app development, but later shifted
 - 📫 How to reach me: [sahilatahar@gmail.com](mailto:sahilatahar@gmail.com) or [linkedin](https://www.linkedin.com/in/sahilatahar/).
 - ❓ Ask me about the MERN Stack, Next.js and Flutter.
 - 💡 Fun Fact: I can solve a Rubik’s Cube in under 2 minutes.
-- 🏆 Goal: Be the person I needed when I was younger
+- 🏆 Goal: Be the person I needed when I was younger.
 
 # ⚡ Tech Stack
 
@@ -47,5 +47,5 @@ npx sahilatahar
 
 <img src="https://sahilatahar.dev/api/view/sahilatahar/count.svg?theme=dark&fontsize=24" alt="Profile Views" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=sahilatahar&theme=tokyonight" alt="sahilatahar" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=sahilatahar&theme=tokyonight" alt="sahilatahar" /> -->
 
