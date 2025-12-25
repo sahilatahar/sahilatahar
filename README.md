@@ -34,7 +34,6 @@ During college, I explored Flutter for mobile app development, but later shifted
 ```bash
 npx sahilatahar
 ```
-**👆 You can find this command-line tool at [npx sahilatahar](https://github.com/sahilatahar/npx-card)**
 
 <a href="https://github.com/sahilatahar"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilatahar&theme=tokyonight"/></a>
 <a href="https://github.com/sahilatahar"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilatahar&theme=tokyonight"/></a>
