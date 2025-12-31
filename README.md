@@ -9,10 +9,11 @@ During college, I explored Flutter for mobile app development, but later shifted
 
 - 🌱 Currently exploring cloud technologies (AWS), DevOps, and Flutter.
 - 💼 Building and maintaining HRM & CRM applications.
-- 📫 How to reach me: [sahilatahar@gmail.com](mailto:sahilatahar@gmail.com) or [linkedin](https://www.linkedin.com/in/sahilatahar/).
+- 📫 Reach me at: [sahilatahar@gmail.com](mailto:sahilatahar@gmail.com) or [linkedin](https://www.linkedin.com/in/sahilatahar/).
 - ❓ Ask me about the MERN Stack, Next.js and Flutter.
 - 💡 Fun Fact: I can solve a Rubik’s Cube in under 2 minutes.
 - 🏆 Goal: Be the person I needed when I was younger.
+- 🧠 Strong in: State management, authentication flows, role-based access control
 
 # ⚡ Tech Stack
 
