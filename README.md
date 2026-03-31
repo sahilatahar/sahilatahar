@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Sahil Atahar! 😊
-Hi, I'm Sahil Atahar, a full-stack developer with over one year of professional experience. I currently work as a full-stack developer at AR Robotics India Pvt. Ltd. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and Flutter and am passionate about exploring new technologies, including AI tools and other advanced platforms.
+Hi, I'm a Full-Stack Developer with 1.5+ years of experience building scalable, production-ready applications across web and mobile. I specialize in React and Next.js on the frontend, Node.js and Express on the backend, and Flutter for cross-platform mobile, delivering complete solutions from database design to deployment. I've shipped full-featured HRM and CRM systems, integrated cloud infrastructure on AWS, and worked with both MongoDB and PostgreSQL.
 
 I love programming, and when I joined my current company as a fresher, I started building large applications like HRM and CRM systems at a startup. This experience helped me explore many tools, technologies, and cloud platforms, which significantly expanded my skill set. Throughout this journey, I learned numerous methods, tips, and tricks. One of the most challenging parts for me was implementing file upload functionality.
 
