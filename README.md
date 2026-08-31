@@ -1,11 +1,10 @@
 ### Hi there 👋, I am Sahil Atahar! 😊
-Hi, I'm a Full-Stack Developer with nearly 2 years of experience building scalable, production-ready applications across web and mobile. I specialize in React and Next.js on the frontend, Node.js and Express on the backend, and Flutter for cross-platform mobile, delivering complete solutions from database design to deployment. I've shipped full-featured HRM and CRM systems, integrated cloud infrastructure on AWS, and worked with both MongoDB and PostgreSQL.
 
-I love programming, and when I joined my current company as a fresher, I started building large-scale applications, such as HRM and CRM systems, at a startup. This experience helped me explore a range of tools, technologies, and cloud platforms, significantly expanding my skill set. Throughout this journey, I learned numerous methods, tips, and tricks. One of the most challenging parts for me was implementing file upload functionality.
+I'm a Full-Stack Developer with 2 years of experience building production-ready web and mobile applications.
 
-I hold a Bachelor of Computer Applications (BCA) degree, where I was first introduced to programming through the C language. Before starting college, I completed a course in C programming, including file handling and some projects aligned with the syllabus.
+I enjoy turning ideas into real products and working across the entire development lifecycle, from designing databases and building APIs to developing user interfaces, integrating cloud services, and deploying and managing applications.
 
-During college, I explored Flutter for mobile app development, but later shifted my focus to web development. Now, I am a full-stack web developer, continuously learning and growing.
+I've worked on large-scale HRM and CRM platforms in a startup environment, where I gained hands-on experience with real-world application development, cloud infrastructure, and solving challenging engineering problems.
 
 - 🌱 Currently exploring cloud technologies (AWS), DevOps, and Flutter.
 - 💼 Building and maintaining HRM & CRM applications.
